@@ -46,7 +46,7 @@ environment setup and test
     - Glass_emprical shading
     - environment cubemap
 ## HW4 (final project)
-link: https://github.com/annguo1106/crazy_santa_claus
-demo video: https://www.youtube.com/watch?v=h8wDiFlMpAk&ab_channel=marion
+- GitHub repo link: https://github.com/annguo1106/crazy_santa_claus
+- demo video: https://www.youtube.com/watch?v=h8wDiFlMpAk&ab_channel=marion
 
 <img src="Assets/HW4.png" width=50%>
