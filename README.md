@@ -37,7 +37,7 @@ environment setup and test
 
 <img src="Assets/HW3.png" width=50%>
 
-- used vertex shader and fragment shader to change the appearance of the helicopter
+- use vertex shader and fragment shader to change the appearance of the helicopter
 - requirements:
     - Bling-Phong shading
     - Gouraud shading
@@ -47,3 +47,5 @@ environment setup and test
     - environment cubemap
 ## HW4 (final project)
 link: https://github.com/annguo1106/crazy_santa_claus
+
+<img src="Assets/HW4.png" width=50%>
